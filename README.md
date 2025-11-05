@@ -13,7 +13,7 @@ Estudante de Ciência de Dados e Inteligência Artificial pelo IESB, com foco em
 
 ### 🚀 Minhas Habilidades (Tech Stack)
 
-Estas são as principais ferramentas e linguagens que utilizo para extrair valor dos dados:
+Estas são as principais ferramentas e linguagens que utilizo:
 
 <table>
   <thead>
