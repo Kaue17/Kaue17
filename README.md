@@ -1,15 +1,3 @@
-### 👋 Olá! Bem-vindo(a) ao meu perfil.
-
-<br>
-
-Estudante de Ciência de Dados e Inteligência Artificial pelo IESB, com foco em transformar dados em insights acionáveis.
-
-* 🌎 Brasília, Brasil.
-* 💼 Buscando oportunidades em Data Science, Business Intelligence e IA.
-
-<br>
-
----
 
 ### 🚀 Minhas Habilidades (Tech Stack)
 
